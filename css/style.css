@@ -212,7 +212,7 @@ h2 {
 	text-align: center;
 }
 .project_link {
-	width: 73%;
+	width: 30em;
 	padding-top: 2rem;
 }
 .project_link a {
@@ -362,6 +362,7 @@ footer .ci {
 		display: flex;
 		justify-content: center;
 		align-items: center;
+		z-index: 1;
 	}
 }
 @media (max-width: 580px) {
